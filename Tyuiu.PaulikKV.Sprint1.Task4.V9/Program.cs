@@ -16,9 +16,9 @@ namespace Tyuiu.PaulikKV.Sprint1.V9
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ :                                                       *");
             Console.WriteLine("***************************************************************************");
             int x, y;
-            Console.WriteLine("Введите значение Х:");
+            Console.WriteLine("Введите значение Х :");
             x = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите значение Y:");
+            Console.WriteLine("Введите значение Y :");
             y = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат :                                                             *");
